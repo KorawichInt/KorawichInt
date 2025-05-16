@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Korawich Inthamusik
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m studying Bachelor's degree at Prince of Songkla University in AIE major
+- 🌱 I graduated with a bachelor's degree from Prince of Songkhla University, majoring in AIE
 - 📫 korawich.inthamusik@gmail.com
 
 <!---
